@@ -5,7 +5,7 @@ description: La herramienta más potente para facilitar el desarrollo de las per
 background: '/img/coaching.jpg'
 ---
 
-Tenemos la certeza de que el coaching es la herramienta más potente para facilitar el desarrollo de las personas y la consecución de sus objetivos. Personas como tú que, llegados a este punto, se merecen descubrir que pueden ir más allá de lo que creen.
+Tenemos la certeza de que el coaching es el proceso más potente para facilitar el desarrollo de las personas y la consecución de sus objetivos. Personas como tú que, llegados a este punto, se merecen descubrir que pueden ir más allá de lo que creen.
 
 #### Primera sesión de coaching sin costo.
 
